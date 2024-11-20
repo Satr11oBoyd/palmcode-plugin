@@ -1,5 +1,5 @@
 
-# PALM CODE THEMES
+# POST TYPE PCODE PLUGIN
 
 Palm Code Plugin is a simple plugin to add and register custom post type "Service" and "Testimonial" for Palm Code Technical test. 
 
